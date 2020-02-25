@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExportAndroidDB</string>
+    <string name="exporting_database">Exporting database...</string>
+    <string name="db">DB</string>
+    <string name="db_file_not_exist">DB file not exist...</string>
+    <string name="cant_create_folder_in_storage">Can\'t create folder in storage</string>
+    <string name="db_file_exits_not_deleted">DB backup file exists and couldn\'t be delete</string>
+</resources>
